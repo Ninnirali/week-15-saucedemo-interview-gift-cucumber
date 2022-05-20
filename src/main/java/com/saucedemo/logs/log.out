@@ -1,0 +1,39 @@
+2022-05-18 23:05:98 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-18 23:05:637 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 14:05:166 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 14:05:73 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 14:05:232 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 16:05:309 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 16:05:622 INFO  CartPage :25 - Click on checkoutCHECKOUT
+2022-05-20 16:05:875 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 16:05:858 INFO  CartPage :25 - Click on checkoutCHECKOUT
+2022-05-20 16:05:721 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 16:05:753 INFO  HomePage :34 - enter username 'standard_user ' to the username field 
+2022-05-20 16:05:980 INFO  HomePage :39 - enter password ' secret_sauce ' to the password field
+2022-05-20 16:05:130 INFO  HomePage :44 - click on the log in button 
+2022-05-20 16:05:393 INFO  InventoryPage :35 - filter the product by price high to low by clicking on Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-20 16:05:504 INFO  InventoryPage :40 -  click on costliest and cheapest product's add to cart buttons
+2022-05-20 16:05:741 INFO  InventoryPage :46 - click on shopping cart2
+2022-05-20 16:05:833 INFO  CartPage :25 - Click on checkoutCHECKOUT
+2022-05-20 16:05:955 INFO  CheckOutPage :44 - enter firstname ' Angelina ' to the firstrname field  enter lastname ' Jolie ' to the lastname field  enter zip code ' 90038 ' to the zipCode field 
+2022-05-20 16:05:277 INFO  CheckOutPage :51 - click on continue button
+2022-05-20 16:05:388 INFO  CheckOutPage :56 - click on finish button
+2022-05-20 16:05:519 INFO  CheckOutPage :61 -  get the text from header confirming order is placed THANK YOU FOR YOUR ORDER
+2022-05-20 16:05:513 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-20 16:05:492 INFO  HomePage :34 - enter username 'standard_user ' to the username field 
+2022-05-20 16:05:659 INFO  HomePage :39 - enter password ' secret_sauce ' to the password field
+2022-05-20 16:05:792 INFO  HomePage :44 - click on the log in button 
+2022-05-20 16:05:186 INFO  InventoryPage :35 - filter the product by price 'high to low' from the tab with list of options : Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-20 16:05:338 INFO  InventoryPage :40 -  click on costliest and cheapest product's add to cart buttons
+2022-05-20 16:05:475 INFO  InventoryPage :46 - click on shopping cart2
+2022-05-20 16:05:578 INFO  CartPage :25 - Click on checkoutCHECKOUT
+2022-05-20 16:05:704 INFO  CheckOutPage :44 - enter firstname ' Angelina ' to the firstname field  enter lastname ' Jolie ' to the lastname field  enter zip code ' 90038 ' to the zipCode field 
+2022-05-20 16:05:23 INFO  CheckOutPage :51 - click on continue button
+2022-05-20 16:05:126 INFO  CheckOutPage :56 - click on finish button
+2022-05-20 16:05:267 INFO  CheckOutPage :61 -  get the text from header confirming order is placed THANK YOU FOR YOUR ORDER
